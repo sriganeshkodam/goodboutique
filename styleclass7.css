@@ -1,0 +1,119 @@
+body{
+    color:black;
+    text-align: center;
+    background-image: url(backk.jpg.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover;
+    background-attachment: fixed;
+    height: 100vh;
+    width: 100vw;
+    margin: 0;
+    
+    
+}
+
+
+.style{
+    background-color: #fff;
+    color: black;
+    position: center;
+    justify-content: center;
+    margin-left: 600px;
+    margin-right: 600px;
+    height: 25px;
+   
+}
+
+.header{
+    font-family: "Updock", cursive;
+    position: center;
+    justify-content: center;
+    margin-left: 400px;
+    margin-right: 400px;
+   font-size: 60px;
+   color: rgb(107, 64, 64);
+
+}
+
+.tag{
+    font-family: "Gochi Hand", cursive;
+    font-size: 20px;
+}
+
+.high{
+    color:rgb(107, 64, 64);
+}
+
+.highh{
+    color:rgb(107, 64, 64);
+}
+
+
+.features{
+    font-family: "DM Serif Display", serif;
+    font-size: 20px;
+}
+
+.styled-image{
+    width: 500px;               
+    height: 500px;            
+    border: 5px rgb(107, 64, 64);
+    border-radius: 20px;       
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3); 
+    filter: grayscale(50%);    
+    transition: transform 0.3s;
+    float: center;
+    border-style: groove;
+    
+}
+
+.contact{
+    float: center;
+}
+
+.signing{
+   float: center;
+   border-style: solid groove;
+   border-radius: 15px;
+   border-color: rgba(0, 0, 0, 0.3);
+   margin-left: 700px;
+   margin-right: 700px;
+   background-color: rgb(182, 130, 130);
+}
+
+.back{
+    float: right;
+    border-style: solid groove;
+    border-radius: 5px;
+    border-color: rgba(0, 0, 0, 0.3);
+    margin-left: 800px;
+    margin-right: 800px;
+    background-color: rgb(182, 130, 130);
+}
+
+.signin{
+    font-family: "Gochi Hand", cursive;
+    color:rgb(107, 64, 64);
+    border-style: solid;
+    border-radius: 25px;
+    margin-left: 600px;
+    margin-right: 600px;
+    padding-bottom: 50px;
+    margin-top: 100px;
+    text-decoration: underline ;
+   text-overflow: inherit;
+}
+
+.logingiin{
+    font-family: "Gochi Hand", cursive;
+    color:rgb(107, 64, 64);
+    border-style: solid;
+    border-radius: 25px;
+    margin-left: 600px;
+    margin-right: 600px;
+    padding-bottom: 50px;
+    margin-top: 100px;
+    text-decoration:  underline ;
+ text-overflow: inherit;
+}
